@@ -28,18 +28,16 @@
 <br/>
 
 <div align="center">
+<table><tr><td align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   We build the intelligence layer between brands and digital commerce   │
-│   so every decision is driven by  DATA,  not instinct.                  │
-│                                                                         │
-│   📍 Milano, Italy  ·  🏢 Alkemy+  ·  🤝 ex-Amazon Senior Managers     │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+  We build the intelligence layer between brands and digital commerce
+  so every decision is driven by  DATA,  not instinct.
+
+  📍 Milano, Italy  ·  🏢 Alkemy+  ·  🤝 ex-Amazon Senior Managers
 ```
 
+</td></tr></table>
 </div>
 
 <br/>
@@ -203,6 +201,7 @@ Marketplace intelligence<br/>Consumer insights
 
 </div>
 
+---
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C0C0C0,60:1a1a1a,100:000000&height=160&section=footer&text=WIT%5BA%5DILER&fontSize=52&fontColor=CCFF00&fontAlignY=55&fontStyle=bold" />
