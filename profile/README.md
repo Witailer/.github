@@ -234,26 +234,6 @@ across every retail channel at scale
 
 <br>
 
-<!-- ══════════════════════ BRANDS ══════════════════════ -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%E2%AD%90+BRANDS+THAT+TRUST+US" />
-</div>
-
-<br>
-
-<div align="center">
-
-`Barilla` · `Lavazza` · `Chicco` · `Peroni` · `3M` · `Moleskine` · `Philips Hue`
-
-`Reckitt` · `Rowenta` · `Acer` · `Breil` · `Flos` · `Nothing` · `Artsana`
-
-`Groupe SEB` · `Caviro` · `Carioca` · `Thun` · `Arena` · `Markwins Beauty` · `Moulinex`
-
-</div>
-
-<br>
-
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
 
 <div align="center">
